@@ -16,3 +16,6 @@ List 1 to 100: ={1..50}
             {3, "C", true}
         }
     )
+
+### How to create Invoked Funn => :
+= (x,y) => x+y/2
