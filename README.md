@@ -19,3 +19,16 @@ List 1 to 100: ={1..50}
 
 ### How to create Invoked Funn => :
 = (x,y) => x+y/2
+____________________________________
+
+### How to use Let & In Expression
+let        
+    // Define variables        
+    Variable1 = 10,        
+    Variable2 = 20,        
+    Result = Variable1 + Variable2        
+in        
+    // Return the result        
+    Result        
+
+
